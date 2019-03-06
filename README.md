@@ -19,6 +19,6 @@ The original XML-RPC library was developed back in 2002 and updated through 2003
 
 # Installation using [composer](http://getcomposer.org/)
 1. Download [composer](http://getcomposer.org/)
-2. Run `composer require faizan/ixr-library` from root of your project
+2. Run `composer require faizan/ixr_library` from root of your project
 3. require `vendor/autoload.php`
 4. Use classes of IXR_Library (Fully backward compatible) as you used to.
