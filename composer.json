@@ -2,7 +2,7 @@
     "name": "faizan/ixr_library",
     "description": "This is a fork of the original Incutio PHP XML-RPC library (IXR) SVN repo hosted on Google Code http://scripts.incutio.com/xmlrpc/ (Fully backward-compatible)",
     "type": "library",
-    "license": "Artistic License",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Faizan Akram",
