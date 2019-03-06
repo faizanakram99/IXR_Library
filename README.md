@@ -1,6 +1,8 @@
 # Incutio XML-RPC library (IXR)
 
-**Note**: _This is a fully backward compatible, PHP 7 compatible, [psr-4](https://www.php-fig.org/psr/psr-4/) compliant fork of the original Incutio XML-RPC library (IXR) SVN repo hosted on <https://code.google.com/p/php-ixr/>. All classes of this package are added to global namespace (just for backward compatibility). You can easily replace original IXR_Library with this package with no changes to your code (except removing `require 'IXR_Library.php'` as classes will be autoloaded with composer)._
+Fully backward compatible, PHP 7 compatible, [psr-4](https://www.php-fig.org/psr/psr-4/) compliant fork of the original Incutio XML-RPC library (IXR) SVN repo hosted on <https://code.google.com/p/php-ixr/>
+
+**Note**: All classes of this package are added to global namespace (just for backward compatibility). You can easily replace original IXR_Library with this package with no changes to your code (except removing `require 'IXR_Library.php'` as classes will be autoloaded with composer). For proper namespaced package please use https://github.com/kissifrot/php-ixr
 
 
 All credits go to Incutio.
