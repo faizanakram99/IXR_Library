@@ -17,7 +17,7 @@ Don't however be fooled by it's simple surface. The library includes a wide vari
 
 The original XML-RPC library was developed back in 2002 and updated through 2003 by Incutio for a number of projects the company was working on at the time. It has become fairly dated but is still used extensively by a wide range of commercial and open-source projects.
 
-# Installation using [composer](http://getcomposer.org/) (Recommended) 
+# Installation using [composer](http://getcomposer.org/)
 1. Download [composer](http://getcomposer.org/)
 2. Run `composer require faizan/ixr-library` from root of your project
 3. require `vendor/autoload.php`
